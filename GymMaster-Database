@@ -1,2 +1,3 @@
 GymMaster-Database
+
 This repository hosts the MySQL database schema for the GymMaster fitness management app. The database is structured to support the creation and management of personalized workout plans, the logging of daily physical activities, and the generation of detailed performance reports. Designed for use by gym members, trainers, and administrators, it ensures efficient data handling for workout tracking, activity logging, and gym management insights. This project includes table definitions for workout plans, activity records, and performance reports, as well as necessary relationships and constraints.
